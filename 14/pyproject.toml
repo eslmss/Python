@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "python-academy-repository"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "python_academy_repository"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "<1.24.3"
+pillow = "^9.5.0"
+pandas = "^2.0.1"
+matplotlib = "^3.7.1"
+requests = "^2.30.0"
+beautifulsoup4 = "^4.12.2"
+openpyxl = "^3.1.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

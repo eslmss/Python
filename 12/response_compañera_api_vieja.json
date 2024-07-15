@@ -1,0 +1,327 @@
+{
+  "explains": [],
+  "count": 15,
+  "quotes": [
+    {
+      "exchange": "NMS",
+      "shortname": "Tesla, Inc.",
+      "quoteType": "EQUITY",
+      "symbol": "TSLA",
+      "index": "quotes",
+      "score": 979191.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "NASDAQ",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "dispSecIndFlag": true,
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "NEO",
+      "shortname": "TESLA, INC. CDR (CAD HEDGED)",
+      "quoteType": "EQUITY",
+      "symbol": "TSLA.NE",
+      "index": "quotes",
+      "score": 21140.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "NEO",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "GER",
+      "shortname": "TESLA INC",
+      "quoteType": "EQUITY",
+      "symbol": "TL0.DE",
+      "index": "quotes",
+      "score": 20361.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "XETRA",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "NGM",
+      "shortname": "GraniteShares 1.25x Long Tesla ",
+      "quoteType": "ETF",
+      "symbol": "TSL",
+      "index": "quotes",
+      "score": 20360.0,
+      "typeDisp": "ETF",
+      "longname": "GraniteShares 1.25x Long Tsla Daily ETF",
+      "exchDisp": "NASDAQ",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "NEO",
+      "shortname": "TESLA (TSLA) YIELD SHARES PURPO",
+      "quoteType": "ETF",
+      "symbol": "YTSL.NE",
+      "index": "quotes",
+      "score": 20304.0,
+      "typeDisp": "ETF",
+      "exchDisp": "NEO",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "LSE",
+      "shortname": "LEVERAGE SHARES PUBLIC LIMITED ",
+      "quoteType": "EQUITY",
+      "symbol": "TSL3.L",
+      "index": "quotes",
+      "score": 20286.0,
+      "typeDisp": "Equity",
+      "longname": "Leverage Shares 3x Tesla ETP Scs",
+      "exchDisp": "London",
+      "isYahooFinance": true
+    },
+    {
+      "exchange": "FRA",
+      "shortname": "TESLA INC",
+      "quoteType": "EQUITY",
+      "symbol": "TL0.F",
+      "index": "quotes",
+      "score": 20131.0,
+      "typeDisp": "Equity",
+      "longname": "Tesla, Inc.",
+      "exchDisp": "Frankfurt",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "isYahooFinance": true
+    }
+  ],
+  "news": [
+    {
+      "uuid": "92e37b6b-0f47-30a2-b599-4c925332b5b2",
+      "title": "Tesla Stock Jumps After Musk Announces New Twitter CEO. What the Move Is Worth.",
+      "publisher": "Barrons.com",
+      "link": "https://finance.yahoo.com/m/92e37b6b-0f47-30a2-b599-4c925332b5b2/tesla-stock-jumps-after-musk.html",
+      "providerPublishTime": 1683897900,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/e4tNMT_wxTe5OI6sWcZKdg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fa444c8f34448e375f9001ee26e0bb0e",
+            "width": 1280,
+            "height": 640,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/JgZwiHgQHsGmhTgu0wZFww--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/fa444c8f34448e375f9001ee26e0bb0e",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "608ef658-f30f-3b05-8635-144e1f36b5df",
+      "title": "Tesla forced to update software in 1 million cars over \u2018sudden acceleration\u2019 fears",
+      "publisher": "The Telegraph",
+      "link": "https://finance.yahoo.com/news/tesla-forced-recall-1-million-120921151.html",
+      "providerPublishTime": 1683893361,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/._eMu_1JA0gSnSWPna1IsA--~B/aD0xNTY2O3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_telegraph_258/ed78446a5216ec1862f7c2fdfa1cae76",
+            "width": 2500,
+            "height": 1566,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/q65RsXd4DA2yz_3WHGpSuQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_telegraph_258/ed78446a5216ec1862f7c2fdfa1cae76",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "efdbfc99-e108-36b6-a109-9ce184865f45",
+      "title": "Tesla Recalls 1.1 Million Cars in China Over Braking Defect",
+      "publisher": "Bloomberg",
+      "link": "https://finance.yahoo.com/news/tesla-recalls-1-1-million-090022290.html",
+      "providerPublishTime": 1683882022,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/QuOUxrjxVn.ErdODb_gM7w--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/33063f4a9efaf9664ed13f117289d3ce",
+            "width": 2000,
+            "height": 1334,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/fipV85ZAqoqCxsP6KG_NXg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/33063f4a9efaf9664ed13f117289d3ce",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "3c925fb2-8be1-39de-ae88-c4214b659b21",
+      "title": "Tesla to 'recall' 1 mln cars in China",
+      "publisher": "Reuters Videos",
+      "link": "https://finance.yahoo.com/m/3c925fb2-8be1-39de-ae88-c4214b659b21/tesla-to-%27recall%27-1-mln-cars.html",
+      "providerPublishTime": 1683895785,
+      "type": "VIDEO",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/gqSCI9r9C_E0M6OvEcyp5A--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/117be0eeddbe2f786d7a1b7510a3d371",
+            "width": 960,
+            "height": 540,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/DGNvVxWnZyCBDK.WcxQInw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/video.reutersnews.com/117be0eeddbe2f786d7a1b7510a3d371",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      }
+    },
+    {
+      "uuid": "194805bc-4581-3755-abb7-4e6b4899cafa",
+      "title": "Is Tesla Stock A Buy Or A Sell Right Now With Elon Musk Stepping Down As Twitter CEO?",
+      "publisher": "Investor's Business Daily",
+      "link": "https://finance.yahoo.com/m/194805bc-4581-3755-abb7-4e6b4899cafa/is-tesla-stock-a-buy-or-a.html",
+      "providerPublishTime": 1683891899,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/E.OH5inMQAFiTbMBN8zY.w--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ebefc624b6cf8d5bfbdce2ec1b70e4cc",
+            "width": 1000,
+            "height": 563,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/dlB0B8sA3dGEZtiEPZvu4g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/ebefc624b6cf8d5bfbdce2ec1b70e4cc",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "197d9faa-d0da-3098-a4b5-3149b7d54bac",
+      "title": "Tesla Stock Rises After Elon Musk Says He's Found A Twitter CEO",
+      "publisher": "Investor's Business Daily",
+      "link": "https://finance.yahoo.com/m/197d9faa-d0da-3098-a4b5-3149b7d54bac/tesla-stock-rises-after-elon.html",
+      "providerPublishTime": 1683890349,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/0HbwEbHltZuFDvR9i11ojw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c6d64079321d20f2fbc7507bf78b6e9d",
+            "width": 1000,
+            "height": 563,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/49cHkrM8S_c.G.IqPGVzSw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/c6d64079321d20f2fbc7507bf78b6e9d",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "b12f85ca-4bad-3664-958e-856188aca85e",
+      "title": "Elon Musk May Have Eyes on AI, Not Tesla, As He Tabs New Twitter CEO",
+      "publisher": "TheStreet.com",
+      "link": "https://finance.yahoo.com/m/b12f85ca-4bad-3664-958e-856188aca85e/elon-musk-may-have-eyes-on.html",
+      "providerPublishTime": 1683895200,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/46qq8GFvcD6U_46f51m8KQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet.com/3acc3c9a838385dee5f3bb4e80b0527a",
+            "width": 1920,
+            "height": 1080,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/K36ZLc.Dwyvhfu_PaRBhng--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet.com/3acc3c9a838385dee5f3bb4e80b0527a",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "uuid": "1d2d703c-3390-33c7-b85a-f0254c9faee2",
+      "title": "Tesla\u2019s in More Recall Controversy. This Time It\u2019s China.",
+      "publisher": "Barrons.com",
+      "link": "https://finance.yahoo.com/m/1d2d703c-3390-33c7-b85a-f0254c9faee2/tesla%E2%80%99s-in-more-recall.html",
+      "providerPublishTime": 1683892080,
+      "type": "STORY",
+      "thumbnail": {
+        "resolutions": [
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/uEWLSutdp1V.GpEz4N1ICQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e6da9dd574ffd9694fe81984a295af4b",
+            "width": 1280,
+            "height": 640,
+            "tag": "original"
+          },
+          {
+            "url": "https://s.yimg.com/uu/api/res/1.2/paCEda9JYXspjf3w7sWboQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/e6da9dd574ffd9694fe81984a295af4b",
+            "width": 140,
+            "height": 140,
+            "tag": "140x140"
+          }
+        ]
+      },
+      "relatedTickers": [
+        "TSLA"
+      ]
+    }
+  ],
+  "nav": [],
+  "lists": [],
+  "researchReports": [],
+  "screenerFieldResults": [],
+  "totalTime": 143,
+  "timeTakenForQuotes": 476,
+  "timeTakenForNews": 600,
+  "timeTakenForAlgowatchlist": 400,
+  "timeTakenForPredefinedScreener": 400,
+  "timeTakenForCrunchbase": 0,
+  "timeTakenForNav": 400,
+  "timeTakenForResearchReports": 0,
+  "timeTakenForScreenerField": 0,
+  "timeTakenForCulturalAssets": 0
+}

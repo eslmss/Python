@@ -1,0 +1,29 @@
+2023-10-26 12:18:30,757 - Ejercicio - INFO - En el texto 'quesadilla', se ubicara el caracter en la posicion: 9
+2023-10-26 12:18:30,757 - Ejercicio - ERROR - Algo salio mal: Error al registrar el texto y/o su posicion
+2023-10-26 12:18:30,758 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:18:54,582 - Ejercicio - INFO - En el texto 'quesadilla', se ubicara el caracter en la posicion: 9
+2023-10-26 12:18:54,583 - Ejercicio - ERROR - Algo salio mal: Error al registrar el texto y/o su posicion
+2023-10-26 12:18:54,583 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:19:20,218 - Ejercicio - INFO - En el texto 'quesadilla', se ubicara el caracter en la posicion: 9
+2023-10-26 12:19:20,218 - Ejercicio - INFO - En el texto 'quesadilla', el caracter en la posicion '9' es -----> a
+2023-10-26 12:19:20,218 - Ejercicio - INFO - Los datos se recibieron correctamente
+2023-10-26 12:19:20,218 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:19:37,418 - Ejercicio - INFO - En el texto '123', se ubicara el caracter en la posicion: 9
+2023-10-26 12:19:37,418 - Ejercicio - ERROR - Algo salio mal: Error al registrar el texto y/o su posicion
+2023-10-26 12:19:37,418 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:19:46,077 - Ejercicio - INFO - En el texto '123', se ubicara el caracter en la posicion: 9
+2023-10-26 12:19:46,077 - Ejercicio - ERROR - Algo salio mal: Error al registrar el texto y/o su posicion
+2023-10-26 12:19:46,077 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:19:59,166 - Ejercicio - INFO - En el texto 'Elias', se ubicara el caracter en la posicion: 5
+2023-10-26 12:19:59,166 - Ejercicio - ERROR - Algo salio mal: La posicion indicada no corresponde al texto enviado
+2023-10-26 12:19:59,166 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:20:11,014 - Ejercicio - INFO - En el texto 'Elias', se ubicara el caracter en la posicion: 4
+2023-10-26 12:20:11,014 - Ejercicio - INFO - En el texto 'Elias', el caracter en la posicion '4' es -----> s
+2023-10-26 12:20:11,015 - Ejercicio - INFO - Los datos se recibieron correctamente
+2023-10-26 12:20:11,015 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 12:20:15,481 - Ejercicio - INFO - En el texto 'Elias', se ubicara el caracter en la posicion: -4
+2023-10-26 12:20:15,481 - Ejercicio - ERROR - Algo salio mal: La posicion indicada no corresponde al texto enviado
+2023-10-26 12:20:15,481 - Ejercicio - INFO - Ejercicio finalizado
+2023-10-26 21:46:44,127 - Ejercicio - INFO - En el texto 'Elias', se ubicara el caracter en la posicion: -4
+2023-10-26 21:46:44,149 - Ejercicio - ERROR - Algo salio mal: La posicion indicada no esta dentro del texto enviado
+2023-10-26 21:46:44,149 - Ejercicio - INFO - Ejercicio finalizado
